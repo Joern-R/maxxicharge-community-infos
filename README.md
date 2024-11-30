@@ -13,6 +13,9 @@ Die Liste hat weder den Anspruch auf Vollständigkeit, noch sind die Lösungen �
 
 https://github.com/debold/HA-MaxxiCharge
 
+## Maxxisun.app API to MQTT bridge
+
+https://flows.nodered.org/flow/0113a1940761838b08d080b50fcc88da?fbclid=IwY2xjawF9neVleHRuA2FlbQIxMAABHUUnHJPZhZXSCGHJlCjlxjbSobyiRYE0vXHzs9sEGV-k-LBqyMOGRgVwvA_aem_kvgOwaP1T_AKeswt_WZKpA 
 
 # Lokale API / UI basierte Lösungen
 
@@ -26,7 +29,5 @@ https://github.com/blabond/iobroker-Maxxicharge-SetOptions
 
 # Diverses
 
-## Maxxisun.app API to MQTT bridge
 
-https://flows.nodered.org/flow/0113a1940761838b08d080b50fcc88da?fbclid=IwY2xjawF9neVleHRuA2FlbQIxMAABHUUnHJPZhZXSCGHJlCjlxjbSobyiRYE0vXHzs9sEGV-k-LBqyMOGRgVwvA_aem_kvgOwaP1T_AKeswt_WZKpA 
 
