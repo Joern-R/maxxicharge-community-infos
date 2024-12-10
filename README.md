@@ -23,9 +23,11 @@ https://flows.nodered.org/flow/0113a1940761838b08d080b50fcc88da?fbclid=IwY2xjawF
 
 https://github.com/Joern-R/maxxicharge-local-ha
 
-## IOBroker Skript zur lokalen Steuerung der Maxxicharge CCU
+## IOBroker Skript und volle IO Broker Integration des lokalen Maxxicharge API
 
 https://github.com/blabond/iobroker-Maxxicharge-SetOptions
+
+https://github.com/blabond/ioBroker.maxxi-charge
 
 # Diverses
 
